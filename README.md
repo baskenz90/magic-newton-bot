@@ -40,4 +40,4 @@ node index.js
 ➖ Exit screen:
 CTRL + A + B
 
-✅ Done!
+✅ Done! 
